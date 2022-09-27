@@ -1,20 +1,20 @@
 <a name="readme-top"></a>
 
 <br />
-<h3 align="center">S(C)rabble</h3>
+<h3 align="center">S_C_rabble</h3>
 
   <p align="center">
     A style-constrained implementation of house rules Scrabbles on the command line using only C++.
     <br />
     <br />
-    <a href="https://github.com/carterfaceysmith/autoComplete"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/carterfaceysmith/S_C_rabble"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/carterfaceysmith/autoComplete">View Demo</a>
+    <a href="https://github.com/carterfaceysmith/S_C_rabble">View Demo</a>
     ·
-    <a href="https://github.com/carterfaceysmith/autoComplete/issues">Report Bug</a>
+    <a href="https://github.com/carterfaceysmith/S_C_rabble/issues">Report Bug</a>
     ·
-    <a href="https://github.com/carterfaceysmith/autoComplete/issues">Request Feature</a>
+    <a href="https://github.com/carterfaceysmith/S_C_rabble/issues">Request Feature</a>
   </p>
 </div>
 
