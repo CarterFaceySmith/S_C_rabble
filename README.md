@@ -40,3 +40,7 @@ Play it by entering "./scrabble".
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
+</br>
+</br>
+
+Godspeed.
